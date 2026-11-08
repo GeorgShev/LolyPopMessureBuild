@@ -1,11 +1,12 @@
 ﻿{
-    "sourceRevision":  "54f5de92390fae1e3fb38a0bd8f22aa350a571b6",
-    "sourceBranch":  "feature/restore-gameplay-input-feedback-parity",
+    "sourceRevision":  "18b9d04b96bd8aab4f6f142220efbf0174abafd7",
+    "sourceBranch":  "develop",
     "unityVersion":  "6000.3.9f1",
-    "buildId":  "build_8c0f8de8ed41",
-    "builtAtUtc":  "2026-10-25T20:41:20.9493427Z",
-    "totalSizeBytes":  44432041,
+    "buildId":  "build_4a71442dc444",
+    "builtAtUtc":  "2026-11-08T17:30:07.7191119Z",
+    "totalSizeBytes":  146840053,
     "buildErrors":  0,
-    "buildWarnings":  16,
-    "verification":  "Chrome WebGL load, Title and Main menu; gameplay/mobile acceptance remains pending."
+    "buildWarnings":  17,
+    "dataDelivery":  "Five lossless parts, at most 32 MiB each; streamed together by release-18b9d04.chunks.js",
+    "verification":  "Local Chrome WebGL loading and onboarding PASS, no console errors. Public check follows deployment. Full gameplay/mobile/audio-device acceptance remains pending."
 }

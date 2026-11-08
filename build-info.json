@@ -8,5 +8,5 @@
     "buildErrors":  0,
     "buildWarnings":  17,
     "dataDelivery":  "Five lossless parts, at most 32 MiB each; streamed together by release-18b9d04.chunks.js",
-    "verification":  "Local Chrome WebGL loading and onboarding PASS, no console errors. Public check follows deployment. Full gameplay/mobile/audio-device acceptance remains pending."
+    "verification":  "Local raw/packaged and public HTTPS Chrome checks PASS: loading, onboarding, tutorial dismissal, world and office menu; 0 console errors/failed HTTP requests, all five parts HTTP 200. Existing JS_FileSystem_Sync deprecation remains. Full gameplay/mobile/audio-device acceptance not run."
 }

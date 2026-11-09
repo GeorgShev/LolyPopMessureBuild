@@ -1,14 +1,12 @@
 {
-    "sourceRevision":  "94786cedb7cb2c5d141fb1cc4192f76552db628d",
-    "sourceBranch":  "develop",
-    "unityVersion":  "6000.3.9f1",
-    "buildId":  "build_d70c6bd16c7f",
-    "builtAtUtc":  "2026-11-09T03:07:03.0342189Z",
-    "totalSizeBytes":  81432703,
-    "buildErrors":  0,
-    "buildWarnings":  4,
-    "removedUnusedAssets":  75,
-    "previousPlayerBytes":  146840053,
-    "dataDelivery":  "Standard Unity Brotli fallback; payload fits GitHub file limit without chunk adapter.",
-    "verification":  "Local Chrome loading/world/menu/settings/help and portrait checked; no console errors. Active art unchanged. Existing compact 960x600 sound-panel overlap and RU tutorial overflow at 360x640 reproduced on original player/baseline. Public result recorded in source publication documentation. Full gameplay/device/audio acceptance not claimed."
+  "sourceRevision": "73b4afc983fb1ffe70f893f936967faccaa9036a",
+  "sourceBranch": "develop",
+  "unityVersion": "6000.3.9f1",
+  "buildId": "build_134df5cdd499",
+  "totalSizeBytes": 78214454,
+  "buildErrors": 0,
+  "buildWarnings": 14,
+  "previousPublicationBytes": 81438876,
+  "dataDelivery": "Standard Unity Brotli fallback",
+  "verification": "Delivery checks and limitations are recorded in source docs/project/webgl-publication.md."
 }

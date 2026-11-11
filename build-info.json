@@ -1,12 +1,12 @@
 {
-  "sourceRevision": "e8f5e903c58497285ad0c51ce84c0f23ca597e76",
+  "sourceRevision": "df62c54cedfbcb2005bc3ae8222ec2fdb2d26e21",
   "sourceBranch": "develop",
   "unityVersion": "6000.3.9f1",
-  "buildId": "build_5b786f840c50",
-  "totalSizeBytes": 78211357,
+  "buildId": "build_120cf5484135",
+  "totalSizeBytes": 78264119,
   "buildErrors": 0,
   "buildWarnings": 14,
-  "previousPublicationBytes": 78219882,
+  "previousPublicationBytes": 78216770,
   "dataDelivery": "Standard Unity Brotli fallback",
   "verification": "Delivery checks and limitations are recorded in source docs/project/webgl-publication.md."
 }

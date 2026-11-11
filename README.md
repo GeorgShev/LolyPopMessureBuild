@@ -2,8 +2,8 @@
 
 Play: https://georgshev.github.io/LolyPopMessureBuild/
 
-Source: e8f5e903c58497285ad0c51ce84c0f23ca597e76 (develop), Unity 6000.3.9f1.
-Continue caption repair and larger mobile rotation controls.
+Source: df62c54cedfbcb2005bc3ae8222ec2fdb2d26e21 (develop), Unity 6000.3.9f1.
+WASD camera movement and matching neighbor visual response.
 Standard Unity player files only.
 Font licenses: LICENSE-SourceSans3.txt and StreamingAssets/Licenses/.
 Build metadata: build-info.json.

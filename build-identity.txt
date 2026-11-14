@@ -1,0 +1,10 @@
+profile=browser-release
+unity=6000.3.9f1
+utc=2026-11-14T21:22:06.9498643Z
+scenes=Assets/_Project/Scenes/Main.unity,Assets/_Project/Scenes/Gameplay.unity
+web.data.unityweb=48641764
+web.framework.js.unityweb=83365
+web.loader.js=117893
+web.wasm.unityweb=9697434
+compressedBytes=58422563
+payloadBytes=58540456

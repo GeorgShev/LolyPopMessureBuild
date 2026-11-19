@@ -1,7 +1,7 @@
 {
   "profile": "browser-release",
-  "release": "browser-20261118",
-  "source": "ed170f4 plus current grass and existing workspace fixes",
+  "release": "browser-20261119",
+  "source": "ed170f4 plus current workspace changes",
   "yandex": false,
   "verification": "Decompressed framework/wasm checked: no Yandex symbols; standard Unity template."
 }
